@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "compile": "deno compile --allow-net --allow-env --allow-read --output bin/ts2ast cli.ts",
+    "example": "deno run --allow-net --allow-env --allow-read cli.ts example/fizzbuzz.ts"
+  }
+}
