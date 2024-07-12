@@ -1,6 +1,6 @@
 <div align="center">
 
-# ts2ast
+# 🌲 ts2ast
 
 *An experimental command line tool to parse TypeScript source file and output AST in JSON*
 
@@ -1202,3 +1202,8 @@ To try parse example source file, run `deno task example`.
 ```
 
 <details>
+
+## License
+
+The Unlicense
+
