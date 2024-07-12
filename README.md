@@ -1201,7 +1201,7 @@ To try parse example source file, run `deno task example`.
 }
 ```
 
-<details>
+</details>
 
 ## License
 
