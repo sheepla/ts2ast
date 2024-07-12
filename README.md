@@ -8,7 +8,7 @@
 
 ## Installation
 
-Requires [Deno](deno.com), testing on v1.44.1.
+Requires [Deno](https://deno.com), testing on v1.44.1.
 
 ```
 deno --version 
