@@ -22,6 +22,13 @@ To compile this tool, run `deno task compile`.
 
 ## Usage
 
+Specify TypeScript source file path in the first argument.
+
+```
+ts2ast path/to/example.ts
+```
+`
+
 To try parse example source file, run `deno task example`.
 
 
